@@ -1,0 +1,4 @@
+version: "3"
+services:
+  spring-log4j-jul:
+    build: .
